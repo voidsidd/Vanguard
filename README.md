@@ -1,9 +1,5 @@
-I am not maintaining this project anymore. I don't have the same energy as when I started this project.
-I started this project about 1.5 years ago, I switched multiple repos so the history is not full.
 
-## BUT, Something big is coming.!!!
-
-# Meridia (Archived)
+# Zodiac
 
 ![MeridiaPreview](./public/preview/ss-7.png)
 
@@ -20,7 +16,6 @@ If you want to read about using Meridia or developing extensions in Meridia, the
 ## Prerequisites
 
 - [Git](https://git-scm.com/)
-- [Milo](https://github.com/ridit-jangra/milo) (optional, for AI features)
 
 ### Windows
 
@@ -43,7 +38,6 @@ Meridia will automatically update when a new release is available.
 - [Python 13+](https://python.org/)
 - [NPM or Yarn](https://npmjs.com/)
 - [Ollama](https://ollama.com/download) (optional, for AI features)
-- [Milo](https://github.com/ridit-jangra/milo) (optional, for AI features)
 
 ### Clone the repository
 
@@ -111,9 +105,3 @@ yarn build
 # Contributing
 
 Contributions are welcome.
-
-Please read `CONTRIBUTING.md` before submitting a PR.
-
-# License
-
-[Mit](https://github.com/ridit-jangra/Meridia/blob/main/LICENSE)
